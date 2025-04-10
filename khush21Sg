@@ -36,7 +36,68 @@
   <meta name="twitter:description"
     content="Owlto Finance is an intent-centric interoperability protocol, 'Bridge the World with AI Agent'." />
   <meta name="twitter:image" content="https://owlto.finance/icon/img/OwltoFinance4.jpg" />
+     <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0"/>
+        <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="/icons/ambient_icon_x180.png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="16x16"
+            href="/icons/ambient_icon_transparent_x16.png"
+         />
+        <link
+            rel="icon"
+            type="image/png"
+            sizes="32x32"
+            href="/icons/ambient_icon_transparent_x32.png"
+        />
+        <link rel="manifest" href="/site.webmanifest" />
+       
+        <!-- <meta name="msapplication-TileColor" content="#0d1117" />
+        <meta name="theme-color" content="#7371fc" />  -->
 
+        <meta name="title" content="Ambient | Zero-to-One Decentralized Trading Protocol" />
+        <title>Ambient | Zero-to-One Decentralized Trading Protocol</title>
+        <meta name="build-time" content="1744306189799" />
+        <meta name="version" content="3.4.5" />
+        <meta name="print" content="687fb2061" />
+
+        <!-- Meta tags using environment variables -->
+        <meta name="description" content="Swap cryptocurrencies like a pro with Ambient. Decentralized trading is now better than ever.">
+        <meta name="keywords" content="Ambient, swap, trade, decentralized, trading, cryptocurrencies, crypto, blockchain, finance, defi, defi trading, defi swap, defi exchange, defi liquidity, defi protocol">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://ambient.finance" />
+        <meta property="og:title" content="Ambient Finance x Monad">
+        <meta property="og:description" content="Swap cryptocurrencies like a pro with Ambient. Decentralized trading is now better than ever.">
+        <meta property="og:image" content="https://us.ambient.finance/preview_ambient.png" />
+
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@ambient_finance" />
+
+        <meta property="twitter:url" content="https://ambient.finance" />
+        <meta property="twitter:title" content="Ambient Finance x Monad" />
+        <meta
+            property="twitter:description"
+            content="Swap cryptocurrencies like a pro with Ambient. Decentralized trading is now better than ever."
+        />
+        <meta
+            property="twitter:image"
+            content="https://us.ambient.finance/preview_ambient.png"
+        />
+        
+        <style>
+            /* background color shown during app load */
+            body {
+                background-color: #0e0e14; 
+            }
+        </style>
   <meta name="twitter:card" content="summary_large_image" />
   <meta property="twitter:domain" content="owlto.finance" />
   <meta property="twitter:url" content="https://owlto.finance" />
