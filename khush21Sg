@@ -28,10 +28,7 @@
   <meta name="finance">
   ta name="viewport"
  content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover, user-scalable=0" />
-  <meta name="finance">
-  content="width=device-width, initial-scale=1.0, minimum-scale=1.0, viewport-fit=cover, user-scalable=0" />
-  <meta name="finance">
-  <meta name="keywords"
+ 
   <meta name="keywords"
     content="bridge, cross-rollup, cross-chain, L2, Layer2, decentralized, owlto, finance, owltofinance, linea, ethereum, zksync, optimism, arbitrum, starknet, base, zora, polygon, bnbchain, opBNB, zkEVM, Taiko, scroll, mantle, web3, crypto" />
   <meta name="description"
